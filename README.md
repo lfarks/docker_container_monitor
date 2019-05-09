@@ -12,3 +12,5 @@ restart_list_names
 
 proyect_containers_name
 - Name of the proyect or some name included in all containers name you want to check.
+
+Run it in background
